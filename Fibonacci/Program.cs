@@ -8,7 +8,7 @@ namespace Fibonacci
         {
             FibonacciService.GenerateNumbers();
             Fibonacci fibonacci = new Fibonacci();
-
+            
             Console.ReadKey();
         }
 
